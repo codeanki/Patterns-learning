@@ -1,0 +1,26 @@
+/*
+1
+21
+321
+4321
+*/
+import java.util.Scanner;
+public class Solution{
+  public static void main(Stsrin[] args){
+   Scanner s = new Scanner(System.in);
+   int n = s.nextInt();
+   int i=1;
+   while(i<=n){
+     int j=1;
+     int k=i;
+     while(j<=i){
+      System.out.print(k);
+      k--;
+      j++;
+     }
+     i++;
+     System.out.println();
+   }
+}
+}
+   
