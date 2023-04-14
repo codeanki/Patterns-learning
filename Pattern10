@@ -1,4 +1,5 @@
-FOR N=5
+Print the Pattern 
+for n = 5
 //
 5432*
 543*1
